@@ -1,28 +1,42 @@
-# 🚗 Uber Clone
+# Uber Clone
 
-This project is a frontend clone of the Uber website, built using HTML and CSS. It replicates the modern UI and layout of Uber's landing page.
+This project is a frontend clone of the Uber website, built using HTML and CSS. It focuses on recreating a modern user interface and responsive layout similar to the original Uber landing page.
 
-## 🔧 Technologies Used
-- HTML5
-- CSS3
+---
 
-## ✨ Features
-- Clean and modern UI design
-- Responsive layout
-- Navigation bar and hero section
-- Multiple content sections
-- Footer design
+## Features
 
-## 📚 What I Learned
-- Structuring web pages using HTML
-- Styling using CSS
-- Flexbox and layout techniques
-- Responsive design basics
+- Clean and modern UI design  
+- Responsive layout (mobile and desktop)  
+- Navigation bar  
+- Hero section  
+- Multiple content sections  
+- Footer section  
 
-## 🚀 Future Improvements
-- Add JavaScript functionality
-- Improve responsiveness for all devices
-- Add animations and transitions
+---
+
+## Technologies Used
+
+- HTML5  
+- CSS3  
+
+---
+
+## What I Learned
+
+- Structuring web pages using HTML  
+- Styling using CSS  
+- Flexbox and layout techniques  
+- Responsive design basics  
+
+---
 
 
-This project is part of my web development learning journey.
+## Project Structure
+
+``` id="ps1"
+uber-clone/
+├── index.html
+├── style.css
+├── images/
+└── README.md
